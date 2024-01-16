@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageGoopApp", "GarageGoopApp\GarageGoopApp.csproj", "{EBFA0395-61C5-424B-B0ED-3DB9D9F27034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{8D43ADDA-2804-4744-BA6D-A2CBC1F4CE45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFA0395-61C5-424B-B0ED-3DB9D9F27034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFA0395-61C5-424B-B0ED-3DB9D9F27034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFA0395-61C5-424B-B0ED-3DB9D9F27034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFA0395-61C5-424B-B0ED-3DB9D9F27034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D43ADDA-2804-4744-BA6D-A2CBC1F4CE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D43ADDA-2804-4744-BA6D-A2CBC1F4CE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D43ADDA-2804-4744-BA6D-A2CBC1F4CE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D43ADDA-2804-4744-BA6D-A2CBC1F4CE45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FA315F-496A-4458-ABE1-76557467E3E7}
+	EndGlobalSection
+EndGlobal
